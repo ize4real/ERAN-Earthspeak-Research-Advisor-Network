@@ -1,1 +1,18 @@
+advisor_id: pilot_001_gregor_hohpe
 
+display_name: Gregor Hohpe
+
+version: 0.1
+
+status: planning
+
+domain:
+  - Platform Architecture
+  - Enterprise Integration
+  - APIs
+
+corpus_status: not_started
+
+owner: EarthSpeak Ventures
+
+created: 2026-07-09
